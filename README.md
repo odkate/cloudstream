@@ -1,19 +1,16 @@
-# CloudStream
+### Cloudstream 3 Repositories
+!!!  Repo Got reported updated repo links below
 
-**⚠️ Warning: By default this app doesn't provide any video sources, you have to install extensions in order to add functionality to the app.**
-
-
-[![Discord](https://invidget.switchblade.xyz/5Hus6fM)](https://discord.gg/5Hus6fM)
-
-### Features:
-+ **AdFree**, No ads whatsoever
-+ No tracking/analytics
-+ Bookmarks
-+ Phone and TV support
-+ Chromecast
-+ Extension system for personal customization
-
-### Supported languages:
-<a href="https://hosted.weblate.org/engage/cloudstream/">
-  <img src="https://hosted.weblate.org/widgets/cloudstream/-/app/multi-auto.svg" alt="Translation status" />
-</a>
+- [English providers repository](cloudstreamrepo://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/repo.json)
+- [Multilingual providers repository](cloudstreamrepo://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/repo.json)
+- [x] [Hexated providers repository](cloudstreamrepo://raw.githubusercontent.com/sxnjey/cs-repos/master/hexated-repo%20(1).json)
+- [Arabic providers repository](cloudstreamrepo://raw.githubusercontent.com/yoyzo/arab/builds/repo.json)
+- [NSFW Providers](cloudstreamrepo://raw.githubusercontent.com/Jacekun/cs3xxx-repo/main/repo.json)
+- [darkdemon providers repository](cloudstreamrepo://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/repo.json)
+- [LikDev-256 Providers Repository](cloudstreamrepo://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/repo.json)
+- [Stormunblessed Kronch Providers Repository](cloudstreamrepo://raw.githubusercontent.com/Stormunblessed/kamy-cs3/master/repo.json)
+- [Eddy providers repository](cloudstreamrepo://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/repo.json)
+- [Stormunblessed Providers Repository](cloudstreamrepo://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/master/repo.json)
+- [dontseehere providers repository](cloudstreamrepo://gitlab.com/dontseehere/cs3-repos/-/raw/main/repo.json)
+- [Horis providers repository](cloudstreamrepo://raw.githubusercontent.com/821938089/cloudstream-extensions/master/repo.json)
+- [CakesTwix Providers Repository](cloudstreamrepo://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json)
