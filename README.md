@@ -1,6 +1,6 @@
 ### Cloudstream 3 Repositories
 !!!  Repo Got reported updated repo links below
-[English providers repository](cloudstreamrepo://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/repo.json)
+- [English providers repository](https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/repo.json)
 - [Multilingual providers repository](cloudstreamrepo://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/repo.json)
 - [x] [Hexated providers repository](cloudstreamrepo://raw.githubusercontent.com/sxnjey/cs-repos/master/hexated-repo%20(1).json)
 - [Arabic providers repository](cloudstreamrepo://raw.githubusercontent.com/yoyzo/arab/builds/repo.json)
