@@ -13,4 +13,4 @@
 - [Stormunblessed Providers Repository](https://raw.githubusercontent.com/Stormunblessed/stormunblessed-cs3/master/repo.json)
 - [dontseehere providers repository](https://gitlab.com/dontseehere/cs3-repos/-/raw/main/repo.json)
 - [Horis providers repository](https://raw.githubusercontent.com/821938089/cloudstream-extensions/master/repo.json)
-- [CakesTwix Providers Repository](https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json)
+- [CakesTwix UA Providers Repository](https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json)
