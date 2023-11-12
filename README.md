@@ -1,4 +1,4 @@
-### Cloudstream 3 Repositories
+### [Cloudstream 3](http://surl.li/nbwwk) [Repositories](http://surl.li/nbxas)
 !!!  Repo Got reported updated repo links below
 
 - [English providers repository](https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/repo.json)
